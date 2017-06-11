@@ -10,4 +10,4 @@ Coffeescript
 
 Walkthrough
 
-<img src="" alt="Screen Demo" width="350" />
+<img src="CRMWithlists.gif" alt="Screen Demo"  />
