@@ -1,5 +1,5 @@
 # CRMwithLists.framer
-Prototyping CRM Application with real data using framer.
+Prototyping CRM Application with dynamic data using framer.
 
 Used the following :
 Component
